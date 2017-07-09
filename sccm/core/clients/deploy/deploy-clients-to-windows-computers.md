@@ -429,7 +429,7 @@ Vérifiez les conditions préalables et suivez les instructions de la section [C
 
     ' Clear variables.  
     Set client = Nothing  
-    Set internetBasedManagementPointFQDN = Nothing  
+    Set newInternetBasedManagementPointFQDN = Nothing  
 
     ```  
 
